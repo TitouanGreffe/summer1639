@@ -18,4 +18,5 @@ content/codeofconduct
 content/contributing
 content/license
 content/changelog
+content/new_section
 ```
